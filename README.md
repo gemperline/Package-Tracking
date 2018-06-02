@@ -1,6 +1,6 @@
 CSUF CPSC 131, Fall 2018 Project 2
 
-// This application is designed to read information from text files that provide pagacke location information.
+// This application is designed to read information from text files that provide package location specifics and timestamps.
 
 // Package statuses are subsequently updated and new information is stored in our data structure (linked list)
 
