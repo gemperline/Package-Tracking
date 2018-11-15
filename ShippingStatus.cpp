@@ -1,3 +1,11 @@
+#pragma once
+//
+//  PackageTracking.h
+//  Project2
+//
+//  Created by Adam Gemperline, Matthew Quinlan, & Alex Feldman on 2/13/18.
+//  Copyright © 2018 Gemperline, Quinlan, Feldman. All rights reserved.
+//
 
 #include "ShippingStatus.h"
 
