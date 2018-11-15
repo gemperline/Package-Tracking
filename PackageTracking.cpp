@@ -1,10 +1,4 @@
-//
-//  PackageTracking.cpp
-//  Project2
-//
-//  Created by Han, Wenlin on 2/13/18.
-//  Copyright © 2018 Han, Wenlin. All rights reserved.
-//
+
 #include "PackageTracking.h"
 
 PackageTracking::PackageTracking(const string& strnum) {
